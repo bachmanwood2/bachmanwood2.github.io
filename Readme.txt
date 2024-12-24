@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Tempo
-Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to Bachman Woodworking!
+This website is an ongoing project showcasing Jon Bachmans work
